@@ -9,6 +9,7 @@
 
 /* Basic */
 
+
 	body, #skel-layers-wrapper {
 		background: #f3f6fa;
 	}
@@ -108,6 +109,9 @@
 
 /* Section/Article */
 
+  section {
+		padding-top: 40px;
+	}
 	section.special, article.special {
 		text-align: center;
 	}
@@ -421,7 +425,7 @@
 			display: block;
 			float: left;
 			text-align: center;
-			width: 50%;
+			width: 100%;
 		}
 
 			ul.featured-icons li .icon {
@@ -569,6 +573,7 @@
 
 		.wrapper.style1 {
 			padding: 0;
+			padding-top:60px;
 		}
 
 		.wrapper.style2 {
