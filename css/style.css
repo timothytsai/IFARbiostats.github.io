@@ -1111,3 +1111,8 @@
 			display: inline-block;
 			width: 5em;
 		}
+
+/* Extra Definition */
+		.img-circle {
+		  border-radius: 50%;
+		}
