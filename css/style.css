@@ -689,7 +689,6 @@ input[type="reset"].small,
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
 	font-family: FontAwesome;
-	font-style: normal;
 	font-weight: normal;
 	text-transform: none !important;
 }
@@ -1256,4 +1255,20 @@ hr.style-section:after {
 /* for retive margin with fixed html header nav */
 .anchor {
 	padding-top: 51px;
+}
+
+em {
+    font-style: italic;
+}
+
+.wrapper > ol {
+	padding-left: 10px;
+}
+
+.wrapper ol > li {
+    padding-left: 15px;
+}
+
+.wrapper ol li ol li {
+    padding-left: 15px;
 }
