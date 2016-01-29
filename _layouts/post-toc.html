@@ -5,7 +5,7 @@ layout: toc
     <article>
   <header class="special container 6u">
     <h2 class="post-title">{{ page.title }}</h2>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} by: {{ page.author }}{% endif %}</p>
   </header>
   <section class="style1 wrapper container small">
     {{ content }}
