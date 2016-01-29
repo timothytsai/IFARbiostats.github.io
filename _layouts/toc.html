@@ -15,7 +15,17 @@
   <script type="text/javascript">
   $(document).ready(function() {
       $('.toc').toc();
-  }); </script>
+  });
+  </script>
+  <script>
+			$('body').scrollgress({
+        height: '5px',
+        color: '#7c8081',
+        success: function() {
+            console.log('Scrollgress has been initiated.');
+        }
+      });
+	</script>
   </body>
 
 </html>

@@ -1237,9 +1237,9 @@ hr.style-section:after {
 }
 
 /* hide the panel if the screen is too small */
-@media screen and (max-width: 500px){
+@media (max-width: 840px){
 	.toc {
-		display:none
+		display:none !important;
 	}
 }
 
