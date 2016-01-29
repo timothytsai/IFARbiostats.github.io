@@ -12,7 +12,7 @@ layout: default
           {% for instr in site.instructions %}
             <li class="wrapper style1">
               <h2><a href="{{ instr.url }}">{{ instr.title }}</a></h2>
-                <p>{{ instr.excerpt }}</p>
+                <p>{{ instr.meta }}</p>
             </li>
             <hr class="style-section">
           {% endfor %}
