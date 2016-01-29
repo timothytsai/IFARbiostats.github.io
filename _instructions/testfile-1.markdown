@@ -1,7 +1,7 @@
 ---
 layout: post-toc
-title:  "test"
-author: "Hao"
+title:  "Lorem ipsum"
+author: "Foo Fooo"
 meta: "At vix meis affert eripuit, quo nostrum intellegat ne, audire platonem vis eu. Nisl graeco antiopam in duo, mei singulis consequat percipitur an, evertitur voluptatibus ut per. Et sententiae incorrupte mel, mazim nostro maiorum his et. Vix no eros quas, his ne meis ubique."
 ---
 

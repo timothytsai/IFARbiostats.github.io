@@ -1,7 +1,8 @@
 ---
 layout: post-toc
-title:  "Test 2"
-author: "Hao Zhu"
+title:  "Lorem ipsum 2"
+author: "Hao"
+date:   2016-01-18
 meta: "At vix meis affert eripuit, quo nostrum intellegat ne, audire platonem vis eu. Nisl graeco antiopam in duo, mei singulis consequat percipitur an, evertitur voluptatibus ut per. Et sententiae incorrupte mel, mazim nostro maiorum his et. Vix no eros quas, his ne meis ubique."
 ---
 
