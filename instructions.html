@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article id="main">
+    <header class="special container">
+        <span class="icon fa-mobile"></span>
+        <h2><strong>Instructions</strong></h2>
+    </header>
+    <section class="wrapper style4 container">
+        <ul class="posts">
+          {% for instr in site.instructions %}
+            <li class="wrapper style1">
+              <h2><a href="{{ instr.url }}">{{ instr.title }}</a></h2>
+                {{ instr.excerpt }}
+            </li>
+            <hr class="style-section">
+          {% endfor %}
+        </ul>
+    </section>
+    <section class="special">
+        <ul class="buttons">
+            <li><a href="{{ post.url }}" class="button">Read more</a></li>
+        </ul></section>
+</article>
