@@ -1148,6 +1148,11 @@ hr.style-section:after {
 	position: relative;
 }
 
+@media print
+{
+	.printhide {display: none !important;}
+}
+
 /* Imported from twitter bootstrap */
 .nav {
 	padding-left: 0;
