@@ -14,5 +14,4 @@ redcarpet:
   extensions: [with_toc_data]
 
 collections:
-  instructions:
-    output: true
+  - instructions
