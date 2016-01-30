@@ -187,11 +187,3 @@ Failure to acknowledge data sources or describe methods with sufficient detail; 
 ##4. Planning, conduct and presentation of secondary analyses
 
 Following or in parallel to completion of pre-planned analyses, secondary analyses may be requested or conducted. It is recommended that the trial employ a template for request and design of these analyses that mirrors the structure of the report described in [Section 3.3.1](#3-3-1-contents-of-the-document).
-
-1. [Section 3.3.1](#3-3-1-contents-of-the-document)
-    1. [Section 3.3.1](#3-3-1-contents-of-the-document)
-    2. [Section 3.3.1](#3-3-1-contents-of-the-document)
-    3. [Section 3.3.1](#3-3-1-contents-of-the-document)
-        1. [Section 3.3.1](#3-3-1-contents-of-the-document)
-        2. [Section 3.3.1](#3-3-1-contents-of-the-document)
-        3. [Section 3.3.1](#3-3-1-contents-of-the-document)
