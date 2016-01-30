@@ -14,7 +14,9 @@
     {% include footer-short.html %}
   <script type="text/javascript">
   $(document).ready(function() {
-      $('.toc').toc();
+      $('.toc').toc({
+        showEffect: 'fadeIn'
+      });
   });
   </script>
   <script>
@@ -26,6 +28,7 @@
         }
       });
 	</script>
+  <script src="/js/smoothscroll.js"></script>
   </body>
 
 </html>
