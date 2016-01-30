@@ -165,12 +165,12 @@ Some critical items for inclusion are described below
     5. e. Sensitivity Analysis. _Describes and justifies any sensitivity analyses, i.e. using different samples, covariates, methods/models, etc._
     6. f. Treatment of missing data. _Describes methods by which missing data are acknowledged and/or taken into account._
     7. g. Deviations from SAP or secondary analytic plan. _Describes and justifies any variation in approach from that previously planned._
-3. III. Presentation of Results. *Formal presentation of results. Should track closely with SAP (Section __2__ ) or secondary analytic plan as well as the sections described in Methods (above).*
+3. III. Presentation of Results. *Formal presentation of results. Should track closely with SAP ([Section __2__](#2-statistical-analysis-plan)) or secondary analytic plan as well as the sections described in Methods (above).*
 4. IV. Conclusions. _Provides in prose the overall implications of the analysis, with high-level quantitative summaries as appropriate._
 
 ###3.4. Special considerations for older adults
 
-See Section 2.4.
+See [Section 2.4](#2-4-special-considerations-for-older-adults).
 
 ###3.5. Common pitfalls
 
@@ -182,4 +182,4 @@ Failure to acknowledge data sources or describe methods with sufficient detail; 
 
 ##4. Planning, conduct and presentation of secondary analyses
 
-Following or in parallel to completion of pre-planned analyses, secondary analyses may be requested or conducted. It is recommended that the trial employ a template for request and design of these analyses that mirrors the structure of the report described in Section 3.3.1.
+Following or in parallel to completion of pre-planned analyses, secondary analyses may be requested or conducted. It is recommended that the trial employ a template for request and design of these analyses that mirrors the structure of the report described in [Section 3.3.1](#3-3-1-contents-of-the-document).
