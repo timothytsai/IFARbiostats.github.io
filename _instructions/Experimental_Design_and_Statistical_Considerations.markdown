@@ -49,6 +49,8 @@ Lack of specificity in describing measurement; lack of detail in considering man
 
 ###1.6. Resources
 
+***
+
 ##2. Statistical Analysis Plan
 ###2.1. What
 
@@ -136,6 +138,8 @@ Lack of specificity in describing techniques to be used and controlling decision
 
 ###2.6. Resources
 
+***
+
 ##3. Presentation of Pre-planned Statistical Analyses
 ###3.1. What
 
@@ -178,7 +182,7 @@ Failure to acknowledge data sources or describe methods with sufficient detail; 
 
 ###3.6. Resources
 
-
+***
 
 ##4. Planning, conduct and presentation of secondary analyses
 
