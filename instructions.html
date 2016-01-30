@@ -11,7 +11,7 @@ layout: default
         <ul class="posts">
           {% for instr in site.instructions %}
             <li class="wrapper style1">
-              <h2><a href="{{ instr.url }}">{{ instr.title }}</a></h2>
+              <h2><a href="{{ instr.url }}">{{ instr.title  | replace:'<br>','' }}</a></h2>
                 <p>{{ instr.meta }}</p>
             </li>
             <hr class="style-section">
