@@ -41,7 +41,7 @@ The following items should be considered during the design phase.
 
 ###1.4. Special considerations for older adults
 
-Aging populations are subject to a number of factors that may induce bias or difficulty in analysis, including enhanced risk of attrition or competing risks, elevated prevalence of multimorbidity, difficulties with participant recall, and other factors [cite Van Ness et al]. These and related considerations must be carefully considered within the SAP and during analysis.
+Aging populations are subject to a number of factors that may induce bias or difficulty in analysis, including enhanced risk of attrition or competing risks, elevated prevalence of multimorbidity, difficulties with participant recall, and other factors^1^. These and related considerations must be carefully considered within the SAP and during analysis.
 
 ###1.5. Common pitfalls
 
@@ -50,6 +50,7 @@ Lack of specificity in describing measurement; lack of detail in considering man
 ###1.6. Resources
 
 ***
+<div style="page-break-after: always;"></div>
 
 ##2. Statistical Analysis Plan
 ###2.1. What
@@ -187,3 +188,6 @@ Failure to acknowledge data sources or describe methods with sufficient detail; 
 ##4. Planning, conduct and presentation of secondary analyses
 
 Following or in parallel to completion of pre-planned analyses, secondary analyses may be requested or conducted. It is recommended that the trial employ a template for request and design of these analyses that mirrors the structure of the report described in [Section 3.3.1](#3-3-1-contents-of-the-document).
+
+##References
+^1^ <sub> Some citations, Van Ness et al.</sub>
