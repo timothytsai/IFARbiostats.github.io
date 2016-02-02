@@ -1,0 +1,20 @@
+---
+layout: toc
+---
+
+    <article>
+  <header class="special container 6u">
+    <h2 class="post-title">{{ page.title }}</h2>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}<br>{% if page.author %} by: {{ page.author }}{% endif %}</p>
+  </header>
+  <section class="style3 wrapper container small">
+    {{ content }}
+  </section>
+
+    <footer>
+        {% if page.previous %}
+        <a href="{{ page.previous.url }}" class="post-prev">&larr; Previous post</a> {% endif %}
+        {% if page.next %}
+        <a href="{{ page.next.url }}" class="post-next">Next post &rarr;</a> {% endif %}
+    </footer>
+</article>

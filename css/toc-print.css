@@ -1,0 +1,10 @@
+@page {
+  margin: 25mm 0mm 25mm 0mm;
+}
+
+@media print {
+  hr {
+    display: none;
+    page-break-after: always !important;
+  }
+}
